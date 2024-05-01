@@ -1,1 +1,4 @@
-# simple-template
+
+# tools-ts
+
+Debugging and typechecks app. Works in Node.js and browsers
